@@ -1,0 +1,9 @@
+.hero-section {
+    background-color: #1C82AD;
+    height: 60vh; /*inaltimea sectiunii hero*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black; /*culoare text*/
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /*linia de sub hero section*/
+  }
